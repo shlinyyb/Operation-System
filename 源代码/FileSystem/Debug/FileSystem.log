@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\10045\source\repos\filesystem\filesystem\command.h(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(145): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(198): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(234): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(246): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(285): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(290): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(317): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(322): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(339): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\command.h(355): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  FileSystem.vcxproj -> C:\Users\10045\source\repos\FileSystem\Debug\FileSystem.exe

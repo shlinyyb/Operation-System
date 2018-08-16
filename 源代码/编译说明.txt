@@ -1,0 +1,9 @@
+1.编译环境为Visual Studio，也可以选用适合编译C++语言的编译工具
+2.使用VS进行编译时，只需新建一个空项目，将源代码导入即可
+3.由于编译环境的迁移，可能会出现一个小问题：error C2440: “初始化”: 无法从“const char [10]”转换为“char *”
+  对于这个问题只需要将typedef struct hand
+                   {
+	                 char *instruction;//指令
+	                 func handler;//对应的处理函数
+                   }HAND_TO;
+  把 char *instruction 改为 const char *instruction 即可！

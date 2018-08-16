@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(81): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(145): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(198): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(234): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(246): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(285): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(290): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(317): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(322): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(339): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10045\source\repos\filesystem\filesystem\Command.h(355): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  All 379 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  FileSystem.vcxproj -> C:\Users\10045\source\repos\FileSystem\Release\FileSystem.exe
